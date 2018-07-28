@@ -1,10 +1,10 @@
 ### sccGitHub
 
-#How To Upload Project To GitHub
+# How To Upload Project To GitHub
 
 ## **COMMANDS**
 
-## git config --global user.email "ericdaniel@1utar.my"
+## 1. git config --global user.email "ericdaniel@1utar.my"
 
 ## git config --global user.name "eric-daniel"
 
