@@ -6,22 +6,22 @@
 
 ### git config --global user.email "ericdaniel@1utar.my"
 
-## git config --global user.name "eric-daniel"
+### git config --global user.name "eric-daniel"
 
-## cd folder
+### cd folder
 
-## cd projectFolder
+### cd projectFolder
 
-## git init
+### git init
 
-## git status
+### git status
 
-## git add .
+### git add .
 
-## git commit -m "MyFirstCommit"
+### git commit -m "MyFirstCommit"
 
-## git remote add origin gitRepoUrl
+### git remote add origin gitRepoUrl
 
-## git remote -v
+### git remote -v
 
-## git push origin master
+### git push origin master
