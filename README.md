@@ -4,9 +4,9 @@
 
 ## **COMMANDS**
 
-### git config --global user.email "ericdaniel@1utar.my"
+### git config --global user.email ""
 
-### git config --global user.name "eric-daniel"
+### git config --global user.name ""
 
 ### cd folder
 
