@@ -4,7 +4,7 @@
 
 ## **COMMANDS**
 
-## git config --global user.email "ericdaniel@1utar.my"
+### git config --global user.email "ericdaniel@1utar.my"
 
 ## git config --global user.name "eric-daniel"
 
